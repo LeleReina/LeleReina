@@ -1,10 +1,10 @@
 ### Hi there 👋
-<h1 align="center">Hola 👋, soy Leire Cubillos Reina</h1>
-<h3 align="center">Apasionada por la programacion y automatizacion de redes</h3>
+<h1 align="center">Hello 👋, soy Leire Cubillos Reina</h1>
+<h3 align="center">Passionate about programming and network automation.</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre **plataformas de Cisco para la colaboracion y administracion de infraestructura**
+- 🌱 I am currently learning about **Cisco platforms for collaboration and infrastructure management**
 
-- 👯 Busco colaborar con **la administracion de la infraestructura y la automatizacion**
+- 👯 I am looking to collaborate in **infrastructure management and automation**
 
 - 📫 E-mail: **reinaleire@outlook.com**
 
